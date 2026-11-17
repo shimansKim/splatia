@@ -1,0 +1,17 @@
+{
+  "name": "Splatia PC Server",
+  "version": "1.1.2",
+  "file": "Splatia-PC-Server-1.1.2-win64.zip",
+  "size": 6095561,
+  "sha256": "023a3bac6d4a8d08002f60cc79aeb682fc68fa316238f58b2c7717148eba613e",
+  "python": "3.11.9",
+  "builtAt": "2026-11-17T15:06:05Z",
+  "source": "002654e",
+  "installer": "Splatia-PC-Server-1.1.2-Setup.exe",
+  "installerSize": 6778787,
+  "installerSha256": "3f1dca3f186c8cfd1bf13ad790cdb79875e962bc61cf029e6e1dbb7eba0c3b1d",
+  "tag": "pc-server-v1.1.2",
+  "url": "https://github.com/shimansKim/splatia/releases/download/pc-server-v1.1.2/Splatia-PC-Server-1.1.2-win64.zip",
+  "installerUrl": "https://github.com/shimansKim/splatia/releases/download/pc-server-v1.1.2/Splatia-PC-Server-1.1.2-Setup.exe",
+  "releasePage": "https://github.com/shimansKim/splatia/releases/tag/pc-server-v1.1.2"
+}
